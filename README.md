@@ -16,4 +16,5 @@ Formule e implemente este problema em termos de estado inicial, estado final,
 operadores e função de avaliação para Busca heurística com A*.
 
 ![Screenshot](mapa.png)
-![Screenshot](tabala.png)
+
+![Screenshot](tabela.png)
