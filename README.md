@@ -18,3 +18,12 @@ operadores e função de avaliação para Busca heurística com A*.
 ![Screenshot](mapa.png)
 
 ![Screenshot](tabela.png)
+
+## A resolução e feita em 3 arquivos, o ***MP.c*** que responsável pela parte da resolução do problema, o ***GrafoMP.c*** que serve para criar No e Aresta(funções para gerenciamento um grafo), tambem contem o mapa em forma de grafo e o ***Pilha.c*** que responsável por cria Pilha(funções para gerenciamento uma pilha).
+
+## O algoritmo busca resolver o problema dos missionários e canibais, por meio da implementação de ***A*(A Estrela)***.
+
+## Onde f(n) foi calculado por: 
+## f(n) = (distancia real(distancia do No inicial até o No atual)/ 30km) + (distancia em linha reta do No  atual até o No final/ 30km) + 4*(Quantidade de estações passadas)
+
+## No arquivo ***Out.txt*** podemos ver o alguns teste da resolução do problema.
